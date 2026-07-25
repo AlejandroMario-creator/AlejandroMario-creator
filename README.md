@@ -1,44 +1,119 @@
-# ¡Hola! Soy Mario Alejandro 👋
+<div align="center">
 
-Estudiante de 9no ciclo de Ingeniería, apasionado por construir soluciones de datos y aplicaciones web de punta a punta.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Mario%20Alejandro&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniería%20%7C%209no%20Ciclo%20%7C%20Datos%20%26%20Desarrollo&descAlignY=58&descSize=18" width="100%"/>
 
-## 🔭 Actualmente
-- 🔭 Estoy trabajando en proyectos que combinan procesamiento de datos (ETL) con desarrollo backend y frontend.
-- 🌱 Estoy aprendiendo a profundizar en Angular y a fortalecer buenas prácticas de arquitectura backend con Java.
-- 👯 Me interesa colaborar en proyectos de ingeniería de datos, APIs backend o interfaces web.
-- 🤔 Busco ayuda para afianzar patrones de diseño y buenas prácticas en proyectos más grandes.
-- 💬 Pregúntame sobre Python (Pandas, PySpark), procesos ETL, desarrollo backend con Java o frontend con Astro/React.
-- 📫 Cómo contactarme: agrega aquí tu correo, LinkedIn o el medio que prefieras.
-- ⚡ Dato curioso: me gusta tanto mover datos de un lado a otro como armar interfaces que los muestren bien.
+<a href="https://www.linkedin.com/in/TU-USUARIO">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:tu-correo@ejemplo.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/AlejandroMario-creator">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🛠️ Stack y herramientas
+<br/><br/>
 
-**Datos / Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Datos+%2B+Backend+%2B+Frontend;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## 🧭 Sobre mí
+
+Estudiante de **9no ciclo**, con experiencia práctica en distintas capas del desarrollo de software: desde el **procesamiento de datos** hasta la construcción de **interfaces web**. Me gusta entender el flujo completo de un producto, desde cómo se transforman los datos hasta cómo se presentan al usuario final.
+
+- 🔭 Trabajando en proyectos que combinan **ETL**, **APIs backend en Java** y **frontends con Astro/React/Angular**
+- 🌱 Profundizando en Angular y buenas prácticas de arquitectura backend
+- 👯 Abierto a colaborar en proyectos de **ingeniería de datos**, **APIs** o **aplicaciones web**
+- 🤔 Buscando mentoría en patrones de diseño y arquitectura de software a mayor escala
+- ⚡ Tan cómodo moviendo datos entre sistemas como armando la interfaz que los muestra
+
+<br/>
+
+## 🛠️ Stack tecnológico
+
+<div align="center">
+
+**Datos & Backend**
+
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" /> &nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+
+<br/><br/>
 
 **Frontend**
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 Estadísticas de GitHub
+<img src="https://skillicons.dev/icons?i=astro,react,angular,html,css,js&theme=dark" />
 
-![Estadísticas de Mario Alejandro](https://github-readme-stats.vercel.app/api?username=AlejandroMario-creator&show_icons=true&theme=default)
-![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroMario-creator)
+</div>
+
+<br/>
+
+## 📊 Estadísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlejandroMario-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroMario-creator&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMario-creator&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
 
 ## 🚀 Proyectos destacados
 
-- **[Nombre del proyecto ETL]** — Pipeline de datos con Python/PySpark que transforma y carga información desde [fuente] hacia [destino].
-- **[Nombre del proyecto backend]** — API REST desarrollada en Java para [breve descripción].
-- **[Nombre del proyecto frontend]** — Interfaz construida con Astro/React para [breve descripción].
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*(Reemplaza estos nombres y descripciones con tus proyectos reales, o dime cuáles son y te ayudo a redactarlos)*
+### 🔄 [Nombre del proyecto ETL]
+Pipeline de datos en **Python + PySpark** que extrae, transforma y carga información desde [fuente] hacia [destino].
 
----
-📌 *Perfil en construcción — siempre aprendiendo algo nuevo.*
+`Python` `PySpark` `Pandas`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [Nombre del proyecto backend]
+API REST desarrollada en **Java** para [breve descripción del proyecto].
+
+`Java` `REST API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [Nombre del proyecto frontend]
+Interfaz construida con **Astro/React** para [breve descripción].
+
+`Astro` `React`
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 [Tu próximo proyecto]
+Cuéntame de qué se trata y lo agregamos aquí.
+
+`Angular` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+> *Reemplaza los nombres, enlaces y descripciones con tus proyectos reales — mándamelos y te ayudo a redactarlos.*
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
