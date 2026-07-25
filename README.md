@@ -130,12 +130,9 @@
 
 </a>
 
-<!-- Agrega tu LinkedIn cuando lo tengas -->
-<!--
-<a href="https://linkedin.com/in/TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/mario-alejandro-a17a03266/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
--->
 
 </p>
 
