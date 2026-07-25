@@ -1,110 +1,141 @@
-<h1 align="center">¡Hola! 👋 Soy Mario Alejandro</h1>
+<!-- ========================= HEADER ========================= -->
 
-<h3 align="center">
-💻 Estudiante de Ingeniería de Sistemas | 📊 Data Analytics | 🌐 Full Stack Developer
-</h3>
-
----
-
-## 🚀 Sobre mí
-
-🎓 Estudiante de Ingeniería de Sistemas.
-
-📚 Actualmente aprendiendo:
-
-- Python para Data Analytics
-- Numpy y Pandas
-- SQL
-- Docker
-- Astro
-- Vue.js
-- Spring Boot
-
-🎯 Mi objetivo es convertirme en un desarrollador Full Stack con conocimientos en análisis de datos y computación en la nube.
-
----
-
-## 🛠 Tecnologías
-
-### Lenguajes
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Mario%20Alejandro&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-### Frameworks
+<h1 align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=vue,spring,astro"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=00F5FF&lines=👋+Hola,+soy+Mario+Alejandro;💻+Ingeniería+de+Sistemas;📊+Data+Analytics+Student;🌐+Full+Stack+Developer;🐍+Python+%7C+Vue+%7C+Spring+Boot;🐳+Aprendiendo+Docker"/>
 
-### Bases de datos
+</h1>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### Herramientas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea"/>
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+# 👨‍💻 Sobre mí
+
+🎓 Estudiante de **Ingeniería de Sistemas**
+
+💡 Me interesa desarrollar aplicaciones web, automatizar procesos y analizar datos.
+
+🚀 Actualmente estoy aprendiendo:
+
+- 🐍 Python
+- 📊 Pandas & NumPy
+- 🌐 HTML, CSS y JavaScript
+- ⚡ Astro
+- 💚 Vue.js
+- ☕ Spring Boot
+- 🐬 MySQL
+- 🐳 Docker
+
+---
+
+# 🛠 Tecnologías
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,vue,astro,spring,mysql,docker,git,github,vscode,ubuntu"/>
 
 </p>
 
 ---
 
-## 🔥 Racha
+# 📈 Mi progreso
+
+```text
+🐍 Python              ████████████░░░░ 80%
+
+📊 Pandas / NumPy      ███████░░░░░░░░░ 50%
+
+🌐 HTML / CSS          █████████████░░░ 85%
+
+⚡ Astro               █████████░░░░░░░ 60%
+
+💚 Vue.js              ██████████░░░░░░ 65%
+
+☕ Spring Boot         █████████░░░░░░░ 60%
+
+🐳 Docker              ██████░░░░░░░░░░ 45%
+```
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlejandroMario-creator&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMario-creator&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📊 Actividad
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=AlejandroMario-creator&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+# 📈 Contribution Graph
 
-- 📊 Dashboard de Data Analytics
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroMario-creator&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlejandroMario-creator&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 🚀 Proyectos
+
+🚧 Próximamente iré publicando proyectos relacionados con:
+
+- 📊 Data Analytics con Python
 - 🌐 Landing Pages con Astro
-- 🛒 Sistema Web con Spring Boot + Vue
-- 🐳 Aplicaciones Dockerizadas
+- 💚 Aplicaciones con Vue.js
+- ☕ APIs REST con Spring Boot
+- 🐳 Docker
 - 🤖 Automatización con Python
 
 ---
 
-## 🌎 Conecta conmigo
+# 🌎 Conecta conmigo
 
-<p>
+<p align="center">
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<a href="https://github.com/AlejandroMario-creator">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+<!-- Agrega tu LinkedIn cuando lo tengas -->
+<!--
+<a href="https://linkedin.com/in/TU_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
-<a href="mailto:TU_CORREO">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+-->
 
 </p>
 
@@ -112,6 +143,14 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AlejandroMario-creator&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 
 </p>
