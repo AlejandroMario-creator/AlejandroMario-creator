@@ -24,11 +24,7 @@
 
 🚀 Actualmente estoy aprendiendo:
 
-- 🐍 Python
-- 📊 Pandas & NumPy
 - 🌐 HTML, CSS y JavaScript
-- ⚡ Astro
-- 💚 Vue.js
 - ☕ Spring Boot
 - 🐬 MySQL
 - 🐳 Docker
