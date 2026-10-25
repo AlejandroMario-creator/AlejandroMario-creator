@@ -1,8 +1,4 @@
-<!-- ========================= HEADER ========================= -->
-
-<p align="center">
-  <img src="https://vercel.app" alt="Mario Alejandro Dev Web" />
-</p>
+# Mario Alejandro | Dev Web
 
 <p align="center">
   <img src="https://herokuapp.com" alt="Typing SVG" />
@@ -27,11 +23,12 @@ Estudiante de **Ingeniería de Sistemas Computacionales** especializado en el **
 
 ### 🛠️ Tech Stack
 
-<table align="center" width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 Frontend</h4>
-      <img src="https://skillicons.dev" alt="Frontend Tech" /><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev" alt="Frontend Tech" /></a>
+      <br><br>
       <ul>
         <li>Estructuras semánticas y estilos modernos</li>
         <li>Componentes reactivos y modulares</li>
@@ -40,7 +37,8 @@ Estudiante de **Ingeniería de Sistemas Computacionales** especializado en el **
     </td>
     <td width="50%" valign="top">
       <h4>⚙️ Backend & DB</h4>
-      <img src="https://skillicons.dev" alt="Backend Tech" /><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev" alt="Backend Tech" /></a>
+      <br><br>
       <ul>
         <li>Arquitectura de APIs RESTful</li>
         <li>Inyección de dependencias y ORMs</li>
@@ -51,7 +49,7 @@ Estudiante de **Ingeniería de Sistemas Computacionales** especializado en el **
   <tr>
     <td colspan="2" valign="top">
       <h4>🔧 Herramientas y Entorno</h4>
-      <img src="https://skillicons.dev" alt="Tools" />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev" alt="Tools" /></a>
     </td>
   </tr>
 </table>
