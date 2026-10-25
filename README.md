@@ -1,14 +1,18 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
+  <img src="https://vercel.app" alt="Mario Alejandro Dev Web" />
+</p>
+
+<p align="center">
   <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mario-alejandro-a17a03266/">
+  <a href="https://linkedin.com">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/AlejandroMario-creator">
+  <a href="https://github.com">
     <img src="https://shields.io" alt="GitHub" />
   </a>
 </p>
@@ -47,7 +51,7 @@ Estudiante de **Ingeniería de Sistemas Computacionales** especializado en el **
   <tr>
     <td colspan="2" valign="top">
       <h4>🔧 Herramientas y Entorno</h4>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux" alt="Tools" />
+      <img src="https://skillicons.dev" alt="Tools" />
     </td>
   </tr>
 </table>
