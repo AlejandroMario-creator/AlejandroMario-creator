@@ -12,9 +12,9 @@ Estudiante de **Ingeniería de Sistemas Computacionales** enfocado en el desarro
 
 ### 🛠️ Tech Stack
 
-* **Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · Angular · Vue.js · Astro · Bootstrap
-* **Backend & DB:** Spring Boot · .NET / ASP.NET Core · Node.js · MySQL
-* **Herramientas & DevOps:** Docker · Git · GitHub · Postman · VS Code · Linux / Ubuntu
+* **Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · Angular · Bootstrap
+* **Backend & DB:** Spring Boot · Express.js · Node.js · MySQL · PSQL
+* **Herramientas & DevOps:** Docker · Git · GitHub · Postman · Antigravity
 
 ---
 
