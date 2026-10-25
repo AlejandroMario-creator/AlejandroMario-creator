@@ -27,11 +27,4 @@ Aplicación Web Full Stack desarrollada para gestionar flujos comerciales comple
 * **Enfoque clave:** Arquitectura limpia, desacoplada y buenas prácticas de seguridad basadas en el estándar **OWASP**.
 
 ---
-
-### 🌎 Conecta Conmigo
-
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
-* **GitHub:** [://github.com](https://://github.com)
-
----
 <p align="center"><i>🚀 Aprendiendo, construyendo y mejorando un proyecto a la vez.</i></p>
