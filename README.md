@@ -1,84 +1,37 @@
-# Mario Alejandro | Dev Web
+# 👨‍💻 Mario Alejandro | Dev Web
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="GitHub" />
-  </a>
-</p>
+> **Full Stack Developer** especializado en construir aplicaciones web eficientes, escalables y seguras.
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👤 Sobre mí
 
-Estudiante de **Ingeniería de Sistemas Computacionales** especializado en el **Desarrollo Web Full Stack**. Me apasiona construir aplicaciones web eficientes, escalables y seguras, cuidando tanto la lógica del backend como la experiencia del usuario en el frontend.
+Estudiante de **Ingeniería de Sistemas Computacionales** enfocado en el desarrollo web. Me apasiona diseñar arquitecturas backend robustas y combinarlas con interfaces de usuario interactivas, dinámicas y fluidas.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Frontend</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev" alt="Frontend Tech" /></a>
-      <br><br>
-      <ul>
-        <li>Estructuras semánticas y estilos modernos</li>
-        <li>Componentes reactivos y modulares</li>
-        <li>TypeScript para código robusto</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & DB</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev" alt="Backend Tech" /></a>
-      <br><br>
-      <ul>
-        <li>Arquitectura de APIs RESTful</li>
-        <li>Inyección de dependencias y ORMs</li>
-        <li>Diseño y optimización de bases de datos SQL</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>🔧 Herramientas y Entorno</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev" alt="Tools" /></a>
-    </td>
-  </tr>
-</table>
+* **Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · Angular · Vue.js · Astro · Bootstrap
+* **Backend & DB:** Spring Boot · .NET / ASP.NET Core · Node.js · MySQL
+* **Herramientas & DevOps:** Docker · Git · GitHub · Postman · VS Code · Linux / Ubuntu
 
 ---
 
 ### 🚀 Proyecto Destacado
 
 #### 🍕 Pizza Hut MVP
-Aplicación Full Stack diseñada para simular el flujo comercial de gestión de productos, usuarios, órdenes, pagos y promociones.
+Aplicación Web Full Stack desarrollada para gestionar flujos comerciales completos (productos, usuarios, órdenes, pagos y promociones).
 
-* **Stack:** `Angular` · `Spring Boot` · `MySQL` · `JWT` · `Spring Security` · `JUnit`
-* **Enfoque clave:** Arquitectura limpia y buenas prácticas de seguridad basadas en el estándar **OWASP**.
-
----
-
-### 📊 Actividad en GitHub
-
-<p align="center">
-  <img width="48%" src="https://vercel.app" alt="Top Languages" />
-  <img width="48%" src="https://vercel.app" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Activity Graph" />
-</p>
+* **Tecnologías:** `Angular` · `Spring Boot` · `MySQL` · `JWT` · `Spring Security` · `JUnit`
+* **Enfoque clave:** Arquitectura limpia, desacoplada y buenas prácticas de seguridad basadas en el estándar **OWASP**.
 
 ---
 
-<p align="center">
-  <i>🚀 Construyendo soluciones eficientes para la web, un commit a la vez.</i>
-</p>
+### 🌎 Conecta Conmigo
+
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+* **GitHub:** [://github.com](https://://github.com)
+
+---
+<p align="center"><i>🚀 Aprendiendo, construyendo y mejorando un proyecto a la vez.</i></p>
